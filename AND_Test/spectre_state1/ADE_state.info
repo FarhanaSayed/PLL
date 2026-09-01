@@ -1,0 +1,3 @@
+projectDir = '"./Sim"
+designInfo = '("PLL" "AND_Test" "schematic" "spectre")
+descriptionText = "None"
